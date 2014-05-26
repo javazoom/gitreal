@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 jingjing11111william   nnew file from jane
+jddfsdfsfsdane add this line new file from jane
+>>>>>>> 214ec0458e6c3e8dc4f44b04b900f2e8155e5ebd
